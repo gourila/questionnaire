@@ -1,0 +1,5 @@
+C:\Users\Franc\Source\Repos\GMZwoods\Questionnaire-\Questionnaire\obj\Debug\InterfceCommandePIzza.csproj.AssemblyReference.cache
+C:\Users\Franc\Source\Repos\GMZwoods\Questionnaire-\Questionnaire\obj\Debug\InterfceCommandePIzza.Form1.resources
+C:\Users\Franc\Source\Repos\GMZwoods\Questionnaire-\Questionnaire\obj\Debug\InterfceCommandePIzza.Properties.Resources.resources
+C:\Users\Franc\Source\Repos\GMZwoods\Questionnaire-\Questionnaire\obj\Debug\InterfceCommandePIzza.csproj.GenerateResource.cache
+C:\Users\Franc\Source\Repos\GMZwoods\Questionnaire-\Questionnaire\obj\Debug\InterfceCommandePIzza.csproj.CoreCompileInputs.cache
